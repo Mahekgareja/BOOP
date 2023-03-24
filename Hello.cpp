@@ -2,6 +2,6 @@
 Using namespace std;
 Int mani()
 {
-Cout<<"hello world";
+Count<<"hello world";
 Return 0;
 }
